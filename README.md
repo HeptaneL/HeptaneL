@@ -4,7 +4,7 @@ I'm a fullstack developer.</br>
 - 🌱 I’m currently learning bitcoin-core and psbt. 
 
 ### My Skills
-[![My Skills](https://skillicons.dev/icons?i=go,solidity,python,java,rust,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,solidity,python,java,rust,cpp,ts,vim)](https://skillicons.dev)
 
 <!--
 **HeptaneL/HeptaneL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
