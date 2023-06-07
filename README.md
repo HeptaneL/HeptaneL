@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'am a fullstack developer.</br>
+I'm a fullstack developer.</br>
 [![My Skills](https://skillicons.dev/icons?i=go,solidity,python,java,rust,vim)](https://skillicons.dev)
 
 <!--
