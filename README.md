@@ -1,6 +1,9 @@
 ### Hi there 👋
 I'm a fullstack developer.</br>
-<p>My Skills
+
+- 🌱 I’m currently learning bitcoin-core and psbt. 
+
+### My Skills
 [![My Skills](https://skillicons.dev/icons?i=go,solidity,python,java,rust,vim)](https://skillicons.dev)
 
 <!--
