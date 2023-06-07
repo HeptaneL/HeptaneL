@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'am a fullstack developer.</br>
-[![My Skills](https://skillicons.dev/icons?i=go,python,rust,java,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,solidity,python,java,rust,vim)](https://skillicons.dev)
 
 <!--
 **HeptaneL/HeptaneL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
