@@ -3,6 +3,7 @@ I'm a fullstack developer.</br>
 
 - 🌱 I’m currently learning bitcoin-core and psbt. 
 - 🔭 Personally, I love Vim and CLI.
+- 📫 All in Web3!!!
 
 ### My Skills
 [![My Skills](https://skillicons.dev/icons?i=go,solidity,python,java,rust,cpp,ts,react,vim)](https://skillicons.dev)
