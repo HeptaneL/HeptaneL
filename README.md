@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm a fullstack developer.</br>
 
-- 🌱 I’m currently learning bitcoin-core and psbt. 
+- 🌱 I’m currently learning llm and duffsion model. 
 - 👯 I participated in the Beijing Eth Hackathon as a developer.
 - 🔭 Personally, I love Vim and CLI.
 - 📫 All in Web3!!!
