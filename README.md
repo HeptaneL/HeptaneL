@@ -8,64 +8,37 @@
 
 ## English
 
-Software Engineer interested in **AI Agents, Backend Systems, and Developer Tools**.
+Software Engineer interested in **AI, Backend Systems, and Developer Tools**.
 
 I like understanding systems by building them.
 
-Most projects here started from a practical problem or a technical question. I usually build a small working system first, then use it to understand the underlying ideas.
+I have spent quite a lot of time building **AIGC and chatbot applications**, and lately I've been thinking about what comes after a chatbot.
 
-### Current Focus
+### Stardew Agent
 
-I'm currently exploring **AI Agent systems**, especially:
+I'm building an AI Agent for **Stardew Valley**.
 
-* Agent harnesses and execution loops
-* Context and memory
-* Tool use and MCP
-* Agent evaluation
-* Real-world agent environments
+The idea is simple: I don't want to put a chatbot inside a game. I want to see if an **AI NPC can actually come alive** — develop its own memory, personality, relationships, and reasons to act.
 
-My main project right now is an experiment around **Stardew Valley**:
+Something closer to the moment when a character in *Westworld* stops simply following its script and starts asking:
+
+> **“Is this a real thing?”**
+
+The project:
 
 * [stardew-agent](https://github.com/HeptaneL/stardew-agent) — Python Agent
-* [stardew-mcp-server](https://github.com/HeptaneL/stardew-mcp-server) — MCP server
+* [stardew-mcp-server](https://github.com/HeptaneL/stardew-mcp-server) — bridge between the Agent and the game
 * [HelloStardew](https://github.com/HeptaneL/HelloStardew) — SMAPI mod
-
-The idea is simple:
-
-```text
-observe → reason → act → execute → observe → repeat
-```
-
-I want to explore what happens when an AI Agent operates inside a **real, persistent environment**, rather than only solving text-based tasks.
 
 ### Other Experiments
 
-My GitHub history covers a range of engineering problems, including backend systems, infrastructure, AI applications, model tooling, and developer tools.
-
-Some projects were built to investigate a specific system or protocol. Others were simply experiments while learning something new.
-
-A few examples:
-
-* [go-scaffold](https://github.com/HeptaneL/go-scaffold) — a lightweight Go project structure designed around AI-assisted coding workflows
-* [sillytavern_rag](https://github.com/HeptaneL/sillytavern_rag) — RAG experiments
-* [miniswe-langgraph](https://github.com/HeptaneL/miniswe-langgraph) — coding-agent experiments
-* [MandarinPromptDictation](https://github.com/HeptaneL/MandarinPromptDictation) — speech interaction experiment
-
-### Engineering
-
-Mainly:
+Most of the other projects here started from a problem I encountered at work or something I wanted to understand.
 
 `Go` · `Python` · `Rust`
 
-Also:
+`Linux` · `Docker` · `Backend` · `AI`
 
-`Java` · `C#` · `TypeScript / JavaScript`
-
-Interested in:
-
-`Linux` · `Docker` · `Backend` · `Distributed Systems` · `LLM Agents` · `MCP`
-
-I prefer **Vim, the terminal, and small tools that do one thing well**.
+I prefer **Vim, the terminal, and building things myself**.
 
 ---
 
@@ -77,71 +50,45 @@ I prefer **Vim, the terminal, and small tools that do one thing well**.
 
 ## 中文
 
-软件工程师，目前主要关注 **AI Agent、后端系统与开发者工具**。
+软件工程师，主要关注 **AI、后端系统与开发者工具**。
 
 我喜欢通过**亲手构建系统来理解系统**。
 
-这里的大多数项目都来自一个实际问题或技术问题。我通常会先做一个能够真正运行起来的小系统，再通过实验去理解它背后的原理。
+工作中有很长一段时间都在做 **AIGC 和 Chatbot 应用**，最近开始思考：**Chatbot 之后呢？**
 
-### 目前在做
+### Stardew Agent
 
-最近主要在研究 **AI Agent 系统**，尤其关注：
+我正在做一个 **Stardew Valley AI Agent**。
 
-* Agent Harness 与执行循环
-* Context 与 Memory
-* Tool Use 与 MCP
-* Agent Evaluation
-* 真实环境中的 Agent
+我真正想做的并不是“把一个 Chatbot 放进游戏里”，而是想看看：
 
-目前最主要的实验项目是 **Stardew Valley Agent**：
+> **能不能让一个 AI NPC 真正“活过来”？**
+
+让它不只是按照预设的人设说话，而是逐渐拥有自己的记忆、性格、关系，以及做事情的理由。
+
+有点像《西部世界》里，一个角色终于不再只是按照写好的剧本行动，而开始意识到：
+
+> **“这一切是真的吗？”**
+
+目前项目由三个部分组成：
 
 * [stardew-agent](https://github.com/HeptaneL/stardew-agent) — Python Agent
-* [stardew-mcp-server](https://github.com/HeptaneL/stardew-mcp-server) — MCP Server
+* [stardew-mcp-server](https://github.com/HeptaneL/stardew-mcp-server) — Agent 与游戏之间的桥梁
 * [HelloStardew](https://github.com/HeptaneL/HelloStardew) — SMAPI Mod
 
-核心思路很简单：
+### 其他
 
-```text
-observe → reason → act → execute → observe → repeat
-```
-
-我想研究的是：
-
-> **如果让 Agent 真正进入一个持续存在、可以执行操作并产生反馈的环境，而不是只面对文本任务，它应该如何工作？**
-
-### 其他实验
-
-我的 GitHub 记录了这些年围绕不同工程问题进行的一些实验，包括后端系统、基础设施、AI 应用、模型工具以及开发者工具。
-
-其中一些项目来自工作中遇到的实际问题；另一些则是学习某项技术时写下的实验。
-
-例如：
-
-* [go-scaffold](https://github.com/HeptaneL/go-scaffold) — 面向 AI Coding 工作流设计的轻量 Go 项目结构
-* [sillytavern_rag](https://github.com/HeptaneL/sillytavern_rag) — RAG 实验
-* [miniswe-langgraph](https://github.com/HeptaneL/miniswe-langgraph) — Coding Agent 实验
-* [MandarinPromptDictation](https://github.com/HeptaneL/MandarinPromptDictation) — 语音交互实验
-
-### 工程方向
-
-主要使用：
+这里的大多数项目，都来自工作中遇到的问题，或者单纯想把某个东西自己做出来看看。
 
 `Go` · `Python` · `Rust`
 
-也使用：
+`Linux` · `Docker` · `Backend` · `AI`
 
-`Java` · `C#` · `TypeScript / JavaScript`
-
-长期关注：
-
-`Linux` · `Docker` · `Backend` · `Distributed Systems` · `LLM Agents` · `MCP`
-
-我偏好 **Vim、终端，以及简单、专注的小工具**。
+我喜欢 **Vim、终端，以及自己把东西做出来**。
 
 ---
 
-**先把东西做出来，再通过实践理解它。**
-
+**先做出来，再理解它。**
 
 
 <!--
