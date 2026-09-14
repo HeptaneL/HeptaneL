@@ -8,7 +8,7 @@ I'm a Software Engineer.
 * ⚡ I love Vim and CLI.
 
 ### My Skills
-[![My Skills](https://skillicons.dev/icons?i=go,python,rust,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,python,rust,ts,react,bash)](https://skillicons.dev)
 
 <!--
 **HeptaneL/HeptaneL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
